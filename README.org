@@ -1,0 +1,8 @@
+* Sintetizador en Golang
+
+
+Requisitos para funcionar en Ubuntu/Debian
+
+#+begin_src bash
+ apt install libasound2-dev
+#+end_src
